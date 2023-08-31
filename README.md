@@ -1,2 +1,4 @@
-# personal-website
-protfolio
+# Demo Portfolio
+A portfolio website made up of HTML,
+CSS telling about you and your
+accomplishments.
